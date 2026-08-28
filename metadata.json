@@ -1,0 +1,6 @@
+{
+  "name": "MagicSlide Studio V0.9(A)",
+  "description": "A browser-based studio to turn images into narrated videos using Gemini TTS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
